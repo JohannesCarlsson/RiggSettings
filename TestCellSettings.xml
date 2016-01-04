@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestCellSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BackupStorage>true</BackupStorage>
+  <PLC xsi:type="BlankPlc" />
+  <Instruments />
+  <Uwa>
+    <IsEnabled>true</IsEnabled>
+    <ApplicationFullName>C:\Program Files (x86)\Volvo\HiQ\Himacs\Bin\UWA\UwaClient.exe</ApplicationFullName>
+  </Uwa>
+  <MasterSlaveRole>None</MasterSlaveRole>
+  <MasterIP />
+  <RigID />
+  <ShallSendEngineRunningStopped>false</ShallSendEngineRunningStopped>
+  <EngineRunningStoppedServer />
+  <EngineRunningStoppedPartner />
+  <EngineRunningStoppedAvsSys />
+  <EngineRunningStoppedAvsPgm />
+  <EngineRunningStoppedMottSys />
+  <ResultServerPartner />
+  <ResultServerExpeditor />
+  <ResultServerServer />
+  <ResultServerAvsSys />
+  <ResultServerAvsPgm />
+  <ResultServerMottSys />
+</TestCellSettings>

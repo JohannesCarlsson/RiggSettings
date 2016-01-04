@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SiteSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BackupStorage>true</BackupStorage>
+  <PropertySettings xsi:type="TestToolPropertyLoaderSetup">
+    <Model>
+      <PathToTestProgram>C:\Himacs\</PathToTestProgram>
+    </Model>
+  </PropertySettings>
+  <TSLoggers />
+  <Regulators />
+  <PhaseLogSetup />
+  <DumpStatusSettings>
+    <TextFiles />
+    <IO_lock />
+  </DumpStatusSettings>
+  <Urls>
+    <UrlSettings>
+      <Name>google</Name>
+      <Url>www.google.se</Url>
+    </UrlSettings>
+    <UrlSettings>
+      <Name>svenska dagbladet</Name>
+      <Url>www.svd.se</Url>
+    </UrlSettings>
+    <UrlSettings>
+      <Name>dn</Name>
+      <Url>www.dn.se</Url>
+    </UrlSettings>
+  </Urls>
+  <DisplayFiles>
+    <DisplayFileSettings>
+      <DisplayFileName>test1</DisplayFileName>
+      <DisplayFilePath>C:\Users\andreasga\Documents\HiMac\Config\SF28_Config\Project\Panels\HiQ Standard.hivision</DisplayFilePath>
+    </DisplayFileSettings>
+    <DisplayFileSettings>
+      <DisplayFileName>startuppanel</DisplayFileName>
+      <DisplayFilePath>C:\Users\andreasga\Documents\HiMac\Config\SF28_Config\Project\Panels\HiQ_Standard_EMS.hivision</DisplayFilePath>
+    </DisplayFileSettings>
+  </DisplayFiles>
+  <DaysToSaveBackup>0</DaysToSaveBackup>
+  <DeleteOldBackupFiles>false</DeleteOldBackupFiles>
+</SiteSettings>
